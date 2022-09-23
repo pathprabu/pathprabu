@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @padmanaban
-- 👀 I’m interested in chatting movies badminton foosball
+- 👀 I’m interested in chatting, movies, badminton and foosball
 - 🌱 I’m currently learning React and Ruby
 - 💞️ I’m looking to collaborate on any fun and cool projects
 - 📫 U can reach me @pathprabu16@gmail.com
